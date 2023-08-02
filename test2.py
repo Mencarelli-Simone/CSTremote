@@ -5,7 +5,7 @@ import numpy as np
 from numpy import pi, exp, log10, log, sin, cos, sqrt
 # decorator for jupyter execution
 # open plots in separate windows
-%matplotlib qt 
+#%matplotlib qt 
 
 
 #%%
@@ -68,7 +68,8 @@ invoke(mws, 'Save')
 
 #%% 
 solver = invoke(mws,'Solver')
-invoke(solver, 'start')
-
+print('starting solver')
+a = invoke(solver, 'start')
+print(a)
 # ok it works
 

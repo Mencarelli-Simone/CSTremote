@@ -1,0 +1,1239 @@
+Connected to .venv (Python 3.11.4)
+
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6899999999999999
+com.StoreParameter('epsilon_h',3.69)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6899999999999999
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.052999999999999999
+com.StoreParameter('sigma',0.053)
+com.RestoreParameter('sigma')
+new sigma  0.052999999999999999
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  127.90575150638696
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6899999999999999
+com.StoreParameter('epsilon_h',3.690000014901161)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6900000149011598
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.052999999999999999
+com.StoreParameter('sigma',0.053)
+com.RestoreParameter('sigma')
+new sigma  0.052999999999999999
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  127.90578335703653
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6900000149011598
+com.StoreParameter('epsilon_h',3.69)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6899999999999999
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.052999999999999999
+com.StoreParameter('sigma',0.05300001490116119)
+com.RestoreParameter('sigma')
+new sigma  0.053000014901161199
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  127.90574205575783
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6899999999999999
+com.StoreParameter('epsilon_h',2.7217249353951423)
+com.RestoreParameter('epsilon_h')
+new epsilon  2.72172493539514
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.053000014901161199
+com.StoreParameter('sigma',0.340303670816192)
+com.RestoreParameter('sigma')
+new sigma  0.34030367081619201
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  2669.694920745931
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  2.72172493539514
+com.StoreParameter('epsilon_h',2.7217249502963035)
+com.RestoreParameter('epsilon_h')
+new epsilon  2.7217249502962999
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.34030367081619201
+com.StoreParameter('sigma',0.340303670816192)
+com.RestoreParameter('sigma')
+new sigma  0.34030367081619201
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  2669.694884052099
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  2.7217249502962999
+com.StoreParameter('epsilon_h',2.7217249353951423)
+com.RestoreParameter('epsilon_h')
+new epsilon  2.72172493539514
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.34030367081619201
+com.StoreParameter('sigma',0.3403036857173532)
+com.RestoreParameter('sigma')
+new sigma  0.34030368571735298
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  2669.69495302723
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  2.72172493539514
+com.StoreParameter('epsilon_h',3.5576047077412967)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5576047077413002
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.34030368571735298
+com.StoreParameter('sigma',0.09228393372417457)
+com.RestoreParameter('sigma')
+new sigma  0.092283933724174594
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  240.48999984812048
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5576047077413002
+com.StoreParameter('epsilon_h',3.557604722642458)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5576047226424601
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.092283933724174594
+com.StoreParameter('sigma',0.09228393372417457)
+com.RestoreParameter('sigma')
+new sigma  0.092283933724174594
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  240.48997374729424
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5576047226424601
+com.StoreParameter('epsilon_h',3.5576047077412967)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5576047077413002
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.092283933724174594
+com.StoreParameter('sigma',0.09228394862533576)
+com.RestoreParameter('sigma')
+new sigma  0.092283948625335802
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  240.49003818473875
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5576047077413002
+com.StoreParameter('epsilon_h',3.65183530177609)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6518353017760901
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.092283948625335802
+com.StoreParameter('sigma',0.06432411470267092)
+com.RestoreParameter('sigma')
+new sigma  0.064324114702670895
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  50.33335921861373
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6518353017760901
+com.StoreParameter('epsilon_h',3.6518353166772513)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6518353166772499
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.064324114702670895
+com.StoreParameter('sigma',0.06432411470267092)
+com.RestoreParameter('sigma')
+new sigma  0.064324114702670895
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  50.33338500938162
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6518353166772499
+com.StoreParameter('epsilon_h',3.65183530177609)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6518353017760901
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.064324114702670895
+com.StoreParameter('sigma',0.06432412960383212)
+com.RestoreParameter('sigma')
+new sigma  0.064324129603832103
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  50.33338965042098
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6518353017760901
+com.StoreParameter('epsilon_h',3.639970458750348)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6399704587503501
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.064324129603832103
+com.StoreParameter('sigma',0.06784461531201458)
+com.RestoreParameter('sigma')
+new sigma  0.067844615312014606
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  44.04256454675608
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6399704587503501
+com.StoreParameter('epsilon_h',3.639970473651509)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6399704736515099
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.067844615312014606
+com.StoreParameter('sigma',0.06784461531201458)
+com.RestoreParameter('sigma')
+new sigma  0.067844615312014606
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  44.04257672195722
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6399704736515099
+com.StoreParameter('epsilon_h',3.639970458750348)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6399704587503501
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.067844615312014606
+com.StoreParameter('sigma',0.06784463021317577)
+com.RestoreParameter('sigma')
+new sigma  0.067844630213175799
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  44.04261628613599
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6399704587503501
+com.StoreParameter('epsilon_h',3.5445845923646595)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5445845923646599
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.067844630213175799
+com.StoreParameter('sigma',0.04150164782097403)
+com.RestoreParameter('sigma')
+new sigma  0.041501647820974
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  234.16812523498504
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5445845923646599
+com.StoreParameter('epsilon_h',3.5445846072658207)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5445846072658198
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.041501647820974
+com.StoreParameter('sigma',0.04150164782097403)
+com.RestoreParameter('sigma')
+new sigma  0.041501647820974
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  234.16809126439244
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5445846072658198
+com.StoreParameter('epsilon_h',3.5445845923646595)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.5445845923646599
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.041501647820974
+com.StoreParameter('sigma',0.04150166272213522)
+com.RestoreParameter('sigma')
+new sigma  0.041501662722135201
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  234.16810562660316
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.5445845923646599
+com.StoreParameter('epsilon_h',3.6263540700331562)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6263540700331598
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.041501662722135201
+com.StoreParameter('sigma',0.06408414115673475)
+com.RestoreParameter('sigma')
+new sigma  0.064084141156734706
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  39.03074274165499
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6263540700331598
+com.StoreParameter('epsilon_h',3.6263540849343174)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6263540849343201
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.064084141156734706
+com.StoreParameter('sigma',0.06408414115673475)
+com.RestoreParameter('sigma')
+new sigma  0.064084141156734706
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  39.03071701977908
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6263540849343201
+com.StoreParameter('epsilon_h',3.6263540700331562)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6263540700331598
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.064084141156734706
+com.StoreParameter('sigma',0.06408415605789594)
+com.RestoreParameter('sigma')
+new sigma  0.0640841560578959
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  39.03077491339852
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6263540700331598
+com.StoreParameter('epsilon_h',3.6316485759202193)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6316485759202202
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0640841560578959
+com.StoreParameter('sigma',0.06554633887793668)
+com.RestoreParameter('sigma')
+new sigma  0.065546338877936705
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  35.594504903246154
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6316485759202202
+com.StoreParameter('epsilon_h',3.6316485908213805)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63164859082138
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.065546338877936705
+com.StoreParameter('sigma',0.06554633887793668)
+com.RestoreParameter('sigma')
+new sigma  0.065546338877936705
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  35.59449114286404
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63164859082138
+com.StoreParameter('epsilon_h',3.6316485759202193)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6316485759202202
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.065546338877936705
+com.StoreParameter('sigma',0.06554635377909787)
+com.RestoreParameter('sigma')
+new sigma  0.065546353779097899
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  35.594549629841765
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6316485759202202
+com.StoreParameter('epsilon_h',3.633076176830594)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6330761768305901
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.065546353779097899
+com.StoreParameter('sigma',0.060300127361662355)
+com.RestoreParameter('sigma')
+new sigma  0.060300127361662403
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  23.07541295933334
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6330761768305901
+com.StoreParameter('epsilon_h',3.6330761917317553)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6330761917317602
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.060300127361662403
+com.StoreParameter('sigma',0.060300127361662355)
+com.RestoreParameter('sigma')
+new sigma  0.060300127361662403
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  23.075403676706195
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6330761917317602
+com.StoreParameter('epsilon_h',3.633076176830594)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6330761768305901
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.060300127361662403
+com.StoreParameter('sigma',0.06030014226282355)
+com.RestoreParameter('sigma')
+new sigma  0.0603001422628235
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  23.075427450093482
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6330761768305901
+com.StoreParameter('epsilon_h',3.6448876621078043)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6448876621077999
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0603001422628235
+com.StoreParameter('sigma',0.04186166189893756)
+com.RestoreParameter('sigma')
+new sigma  0.041861661898937599
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  74.04621541027021
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6448876621077999
+com.StoreParameter('epsilon_h',3.6448876770089655)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.64488767700897
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.041861661898937599
+com.StoreParameter('sigma',0.04186166189893756)
+com.RestoreParameter('sigma')
+new sigma  0.041861661898937599
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  74.04622207009304
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.64488767700897
+com.StoreParameter('epsilon_h',3.6448876621078043)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6448876621077999
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.041861661898937599
+com.StoreParameter('sigma',0.04186167680009875)
+com.RestoreParameter('sigma')
+new sigma  0.0418616768000988
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  74.04615418430095
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6448876621077999
+com.StoreParameter('epsilon_h',3.6343768829516945)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63437688295169
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0418616768000988
+com.StoreParameter('sigma',0.058269643952658996)
+com.RestoreParameter('sigma')
+new sigma  0.058269643952659003
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.841857107617397
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63437688295169
+com.StoreParameter('epsilon_h',3.6343768978528557)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6343768978528601
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.058269643952659003
+com.StoreParameter('sigma',0.058269643952658996)
+com.RestoreParameter('sigma')
+new sigma  0.058269643952659003
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.841850351060483
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6343768978528601
+com.StoreParameter('epsilon_h',3.6343768829516945)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63437688295169
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.058269643952659003
+com.StoreParameter('sigma',0.05826965885382019)
+com.RestoreParameter('sigma')
+new sigma  0.058269658853820197
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.841840353199526
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63437688295169
+com.StoreParameter('epsilon_h',3.633749187297981)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6337491872979801
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.058269658853820197
+com.StoreParameter('sigma',0.05924951603144239)
+com.RestoreParameter('sigma')
+new sigma  0.059249516031442399
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.34466858442252
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6337491872979801
+com.StoreParameter('epsilon_h',3.633749202199142)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63374920219914
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059249516031442399
+com.StoreParameter('sigma',0.05924951603144239)
+com.RestoreParameter('sigma')
+new sigma  0.059249516031442399
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.344659369566156
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63374920219914
+com.StoreParameter('epsilon_h',3.633749187297981)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6337491872979801
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059249516031442399
+com.StoreParameter('sigma',0.059249530932603586)
+com.RestoreParameter('sigma')
+new sigma  0.0592495309326036
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.34466296777224
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6337491872979801
+com.StoreParameter('epsilon_h',3.6361224023581684)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6361224023581702
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0592495309326036
+com.StoreParameter('sigma',0.05927209574123971)
+com.RestoreParameter('sigma')
+new sigma  0.059272095741239698
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.269038978404634
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6361224023581702
+com.StoreParameter('epsilon_h',3.6361224172593296)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6361224172593301
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059272095741239698
+com.StoreParameter('sigma',0.05927209574123971)
+com.RestoreParameter('sigma')
+new sigma  0.059272095741239698
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.26904420405094
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6361224172593301
+com.StoreParameter('epsilon_h',3.6361224023581684)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6361224023581702
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059272095741239698
+com.StoreParameter('sigma',0.059272110642400906)
+com.RestoreParameter('sigma')
+new sigma  0.059272110642400899
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.26904361835637
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6361224023581702
+com.StoreParameter('epsilon_h',3.634889461385325)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63488946138532
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059272110642400899
+com.StoreParameter('sigma',0.05926036505158117)
+com.RestoreParameter('sigma')
+new sigma  0.0592603650515812
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.047809362897947
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63488946138532
+com.StoreParameter('epsilon_h',3.634889476286486)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6348894762864901
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0592603650515812
+com.StoreParameter('sigma',0.05926036505158117)
+com.RestoreParameter('sigma')
+new sigma  0.0592603650515812
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.047809247609433
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6348894762864901
+com.StoreParameter('epsilon_h',3.634889461385325)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.63488946138532
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.0592603650515812
+com.StoreParameter('sigma',0.059260379952742366)
+com.RestoreParameter('sigma')
+new sigma  0.059260379952742401
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.047809891519854
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.63488946138532
+com.StoreParameter('epsilon_h',3.644848081463557)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.64484808146356
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059260379952742401
+com.StoreParameter('sigma',0.044528757180035974)
+com.RestoreParameter('sigma')
+new sigma  0.044528757180036002
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  63.13227352686476
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.64484808146356
+com.StoreParameter('epsilon_h',3.644848096364718)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6448480963647198
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.044528757180036002
+com.StoreParameter('sigma',0.044528757180035974)
+com.RestoreParameter('sigma')
+new sigma  0.044528757180036002
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  63.13228175273158
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6448480963647198
+com.StoreParameter('epsilon_h',3.644848081463557)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.64484808146356
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.044528757180036002
+com.StoreParameter('sigma',0.04452877208119717)
+com.RestoreParameter('sigma')
+new sigma  0.044528772081197203
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  63.132213075287666
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.64484808146356
+com.StoreParameter('epsilon_h',3.6349400194912516)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349400194912498
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.044528772081197203
+com.StoreParameter('sigma',0.05918557535327071)
+com.RestoreParameter('sigma')
+new sigma  0.059185575353270702
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.04742509083159
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349400194912498
+com.StoreParameter('epsilon_h',3.6349400343924128)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349400343924101
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059185575353270702
+com.StoreParameter('sigma',0.05918557535327071)
+com.RestoreParameter('sigma')
+new sigma  0.059185575353270702
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.047424830658834
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349400343924101
+com.StoreParameter('epsilon_h',3.6349400194912516)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349400194912498
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059185575353270702
+com.StoreParameter('sigma',0.0591855902544319)
+com.RestoreParameter('sigma')
+new sigma  0.059185590254431902
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.047424460093396
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349400194912498
+com.StoreParameter('epsilon_h',3.63491835329791)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349183532979099
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059185590254431902
+com.StoreParameter('sigma',0.05921762576405778)
+com.RestoreParameter('sigma')
+new sigma  0.059217625764057799
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.046934681087464
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349183532979099
+com.StoreParameter('epsilon_h',3.634918368199071)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349183681990702
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059217625764057799
+com.StoreParameter('sigma',0.05921762576405778)
+com.RestoreParameter('sigma')
+new sigma  0.059217625764057799
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.046934502910386
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349183681990702
+com.StoreParameter('epsilon_h',3.63491835329791)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6349183532979099
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059217625764057799
+com.StoreParameter('sigma',0.05921764066521897)
+com.RestoreParameter('sigma')
+new sigma  0.059217640665219
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.04693455194838
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6349183532979099
+com.StoreParameter('epsilon_h',3.635083903937126)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6350839039371299
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059217640665219
+com.StoreParameter('sigma',0.059193085521836)
+com.RestoreParameter('sigma')
+new sigma  0.059193085521835997
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.048263994449197
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6350839039371299
+com.StoreParameter('epsilon_h',3.635083918838287)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6350839188382902
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059193085521835997
+com.StoreParameter('sigma',0.059193085521836)
+com.RestoreParameter('sigma')
+new sigma  0.059193085521835997
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
+solver return value  1
+com.ResultTree()
+com.GetResultIDsFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)')
+com.GetResultFromTreeItem('1D Results\\Port Information\\Gamma\\1(1)','3D:RunID:0')
+error value  22.04826443090355
+com.DoesParameterExist('epsilon_h')
+com.RestoreParameter('epsilon_h')
+old epsilon  3.6350839188382902
+com.StoreParameter('epsilon_h',3.635083903937126)
+com.RestoreParameter('epsilon_h')
+new epsilon  3.6350839039371299
+com.DoesParameterExist('sigma')
+com.RestoreParameter('sigma')
+old sigma  0.059193085521835997
+com.StoreParameter('sigma',0.05919310042299719)
+com.RestoreParameter('sigma')
+new sigma  0.059193100422997198
+com.Save()
+com.Rebuild()
+com.Save()
+com.Solver()
+starting solver
+com.start()
